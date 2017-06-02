@@ -1,0 +1,23 @@
+{
+  "name": "chaibase-sass",
+  "description": "Stylesheet for Chaibase. Based on COmpass Bootstrap and Gentelella.",
+  "main": "index.js",
+  "authors": [
+    "dhilipsiva"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "ChaiBase",
+    "style",
+    "tea",
+    "dashbaord"
+  ],
+  "homepage": "https://github.com/chaibase/chaibase-sass",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

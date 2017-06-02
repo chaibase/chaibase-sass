@@ -1,0 +1,25 @@
+{
+  "name": "chaibase-sass",
+  "version": "0.0.1",
+  "description": "Stylesheet for Chaibase. Based on Compass, Bootstrap and Gentelella.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chaibase/chaibase-sass.git"
+  },
+  "keywords": [
+    "ChaiBase",
+    "style",
+    "tea",
+    "dashbaord"
+  ],
+  "author": "dhilipsiva",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/chaibase/chaibase-sass/issues"
+  },
+  "homepage": "https://github.com/chaibase/chaibase-sass#readme"
+}
