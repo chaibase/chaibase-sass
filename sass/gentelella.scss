@@ -1,152 +1,3 @@
-//colors
-$color_pickled_bluewood_approx: #2a3f54;
-$color_gray_nurse_approx: #eaeaea;
-$color_mountain_meadow_approx: #1abb9c;
-$color_fiord_approx: #3e5367;
-$white: #fff;
-$black: #000;
-$color_pickled_bluewood_44_approx: rgba(52, 73, 94, 0.44);
-$color_pink_swan_approx: #bab8b8;
-$color_athens_gray_approx: #ecf0f1;
-$color_ghost_approx: #c4cfda;
-$color_gallery_approx: #ededed;
-$color_geyser_approx: #d9dee4;
-$color_black_haze_approx: #f7f7f7;
-$color_curious_blue_approx: #3498db;
-$color_wisteria_approx: #9b59b6;
-$color_opal_approx: #9cc2cb;
-$color_cinnabar_approx: #e74c3c;
-$color_bermuda_gray_approx: #73879c;
-$color_tree_poppy_approx: #f39c12;
-$color_shakespeare_approx: #50c1cf;
-$color_submarine_approx: #bdc3c7;
-$color_kashmir_blue_approx: #5a738e;
-$color_wild_sand_approx: #f2f5f7;
-$white_6: rgba(255, 255, 255, 0.06);
-$color_mercury_approx: #e7e7e7;
-$white_5: rgba(255, 255, 255, 0.05);
-$black_25: rgba(0, 0, 0, 0.25);
-$white_16: rgba(255, 255, 255, 0.16);
-$color_abbey_approx: #515356;
-$black_7_5: rgba(0, 0, 0, 0.075);
-$color_mercury_49_approx: rgba(221, 226, 232, 0.49);
-$color_santas_gray_approx: #93a2b2;
-$white_75: rgba(255, 255, 255, 0.75);
-$color_pumice_approx: #c5c7cb;
-$color_whisper_approx: #f5f7fa;
-$color_celeste_approx: #ccc;
-$color_fuscous_gray_approx: #555;
-$color_alto_approx: #ddd;
-$gallery: #efefef;
-$color_flush_mahogany_approx: #c0392b;
-$color_mystic_approx: #e6e9ed;
-$color_silver_approx: #bdbdbd;
-$mercury: #e5e5e5;
-$color_waterloo__approx: #768399;
-$color_bermuda_gray_36_approx: rgba(115, 135, 156, 0.36);
-$color_keppel_59_approx: rgba(38, 185, 154, 0.59);
-$color_alto_78_approx: rgba(221, 221, 221, 0.78);
-$color_pickled_bluewood_94_approx: rgba(52, 73, 94, 0.94);
-$color_keppel_7_approx: rgba(38, 185, 154, 0.07);
-$color_keppel_11_approx: rgba(38, 185, 154, 0.11);
-$color_keppel_16_approx: rgba(38, 185, 154, 0.16);
-$color_keppel_40_approx: rgba(38, 185, 154, 0.4);
-$red: #ff0000;
-$color_mountain_mist_approx: #999;
-$color_silver_chalice_approx: #aaa;
-$color_tundora_approx: #444;
-$color_star_dust_approx: #a19b9e;
-$color_jordy_blue_approx: #99b3ff;
-$color_pigeon_post_approx: #b0bed9;
-$color_rock_blue_approx: #9fafd1;
-$color_portage_approx: #8080ff;
-$color_blue_chalk_approx: #e5e5ff;
-$color_concrete_approx: #f3f3f3;
-$color_seagull_approx: #79c3df;
-$color_loblolly_approx: #c1cdcd;
-$color_pelorous_approx: #33a1c9;
-$color_regent_st_blue_approx: #abd9ea;
-$color_boulder_approx: #757679;
-$color_big_stone_approx: #172d44;
-$color_bombay_approx: #adb2b5;
-$color_shuttle_gray_approx: #5e6974;
-$color_masala_41_approx: rgba(58, 58, 58, 0.41);
-$white_80: rgba(255, 255, 255, 0.8);
-$black_10: rgba(0, 0, 0, 0.1);
-$black_15: rgba(0, 0, 0, 0.15);
-$color_silver_sand_30_approx: rgba(194, 194, 194, 0.3);
-$color_boston_blue_approx: #428bca;
-$color_scooter_approx: #39b3d7;
-$alto: #dbdbdb;
-$color_niagara_approx: #169f85;
-$color_mine_shaft_approx: #333;
-$color_mischka_approx: #ccd0d7;
-$color_hippie_green_approx: #468847;
-$color_willow_brook_approx: #dff0d8;
-$color_beryl_green_approx: #d6e9c6;
-$color_chestnut_approx: #b94a48;
-$color_vanilla_ice_approx: #f2dede;
-$color_bridesmaid_approx: #faedec;
-$color_flame_pea_approx: #e85445;
-$color_fuzzy_wuzzy_brown_approx: #ce5454;
-$color_tapa_approx: #777;
-$wild_sand: #f4f4f4;
-$color_dodger_blue_approx: #3399ff;
-$color_keppel_approx: #26b99a;
-$color_blue_bayoux_approx: #4b5f71;
-$color_river_bed_approx: #394d5f;
-$color_storm_dust_approx: #666;
-$alabaster: #fafafa;
-$black_12_5: rgba(0, 0, 0, 0.125);
-$color_nobel_approx: #b3b3b3;
-$white_20: rgba(255, 255, 255, 0.2);
-$black_5: rgba(0, 0, 0, 0.05);
-$color_alabaster_approx: #f9f9f9;
-$color_catskill_white_approx: #f1f6f7;
-$color_sushi_approx: #82ad2b;
-$color_cosmos_approx: #fbd8db;
-$color_tamarillo_approx: #90111a;
-$color_iron_approx: #d3d6da;
-$color_quill_gray_approx: #d2d3d2;
-$color_cararra_approx: #ececec;
-$color_downy_16_approx: rgba(101, 204, 182, 0.16);
-$color_log_cabin_approx: #222;
-$color_mine_shaft_28_approx: rgba(51, 51, 51, 0.28);
-$color_danube_approx: #5b90bf;
-$black_30: rgba(0, 0, 0, 0.3);
-$black_35: rgba(0, 0, 0, 0.35);
-$black_50: rgba(0, 0, 0, 0.5);
-$color_concrete_80_approx: rgba(243, 242, 243, 0.8);
-$color_pale_slate_80_approx: rgba(195, 194, 196, 0.8);
-$color_bon_jour_approx: #dfdfdf;
-$color_gray_approx: #7e7e7e;
-$black_8: rgba(0, 0, 0, 0.08);
-$color_bouquet_approx: #a97aad;
-$color_purple_mountains_majesty_approx: #a878af;
-$color_white_lilac_approx: #f7f9fa;
-$color_cerulean_approx: #00aeef;
-$black_7_451: rgba(0, 0, 0, 0.07451);
-$color_keppel_88_approx: rgba(38, 185, 154, 0.88);
-$color_curious_blue_88_approx: rgba(52, 152, 219, 0.88);
-$color_tree_poppy_88_approx: rgba(243, 156, 18, 0.88);
-$color_cinnabar_88_approx: rgba(231, 76, 60, 0.88);
-$color_pickled_bluewood_88_approx: rgba(52, 73, 94, 0.88);
-
-//fonts
-$font_0: Helvetica Neue;
-$font_1: Roboto;
-$font_2: Arial;
-$font_3: Droid Sans;
-$font_4: sans-serif;
-$font_5: FontAwesome;
-$font_6: helvetica;
-$font_7: Georgia;
-$font_8: serif;
-$font_9: Helvetica;
-
-//urls
-$url_0: url(http://cssdeck.com/uploads/media/items/8/8bcLQqF.png);
-
 //@extend-elements
 //original selectors
 //.nav-sm ul.nav.child_menu ul, .nav-sm .nav.side-menu li.active-sm ul ul
@@ -159,7 +10,7 @@ $url_0: url(http://cssdeck.com/uploads/media/items/8/8bcLQqF.png);
 
 @charset "UTF-8";
 .left_col {
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	.mCSB_scrollTools {
 		width: 6px;
 	}
@@ -425,7 +276,7 @@ $url_0: url(http://cssdeck.com/uploads/media/items/8/8bcLQqF.png);
 }
 body {
 	color: $color_bermuda_gray_approx;
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	font-family: $font_0, $font_1, $font_2, $font_3, $font_4;
 	font-size: 13px;
 	font-weight: 400;
@@ -437,7 +288,7 @@ body {
 .nav_title {
 	width: 230px;
 	float: left;
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	//Instead of the line below you could use @include border-radius($radius, $vertical-radius)
 	border-radius: 0;
 	height: 57px;
@@ -497,7 +348,7 @@ body {
 	color: $color_cinnabar_approx;
 }
 .dark {
-	color: $color_pickled_bluewood_approx;
+	color: $color_primary;
 }
 .border-blue {
 	border-color: $color_curious_blue_approx !important;
@@ -515,7 +366,7 @@ body {
 	border-color: $color_cinnabar_approx !important;
 }
 .border-dark {
-	border-color: $color_pickled_bluewood_approx !important;
+	border-color: $color_primary !important;
 }
 .bg-white {
 	background: $white !important;
@@ -663,7 +514,7 @@ body {
 	overflow: hidden;
 }
 .progress-bar-dark {
-	background-color: $color_pickled_bluewood_approx !important;
+	background-color: $color_primary !important;
 }
 .progress-bar-gray {
 	background-color: $color_submarine_approx !important;
@@ -1406,7 +1257,7 @@ a {
 	margin-bottom: 0;
 }
 .navbar-header {
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 }
 .navbar-right {
 	margin-right: 0;
@@ -1494,7 +1345,7 @@ a {
 			> a {
 				//Instead of the line below you could use @include text-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
 				text-shadow: $black_25 0 -1px 0;
-				background: linear-gradient($color_pickled_bluewood_approx, $color_pickled_bluewood_approx), $color_pickled_bluewood_approx;
+				background: linear-gradient($color_primary, $color_primary), $color_primary;
 				//Instead of the line below you could use @include box-shadow($shadow-1, $shadow-2, $shadow-3, $shadow-4, $shadow-5, $shadow-6, $shadow-7, $shadow-8, $shadow-9, $shadow-10)
 				box-shadow: $black_25 0 1px 0, inset $white_16 0 1px 0;
 			}
@@ -1520,7 +1371,7 @@ a {
 		position: relative;
 		display: block;
 		padding: 10px 15px;
-		color: $color_pickled_bluewood_approx !important;
+		color: $color_primary !important;
 	}
 }
 .top_search {
@@ -1677,7 +1528,7 @@ footer {
 	}
 }
 .jqstooltip {
-	background: $color_pickled_bluewood_approx !important;
+	background: $color_primary !important;
 	width: 30px !important;
 	height: 22px !important;
 	text-decoration: none;
@@ -2508,7 +2359,7 @@ span {
 	padding: 5px 0 0;
 	position: fixed;
 	width: 230px;
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	a {
 		padding: 7px 0 3px;
 		text-align: center;
@@ -3014,7 +2865,7 @@ textarea {
 .btn-dark {
 	color: $color_gallery_approx;
 	background-color: $color_blue_bayoux_approx;
-	border-color: $color_pickled_bluewood_approx;
+	border-color: $color_primary;
 	&:hover {
 		color: $white;
 		background-color: $color_river_bed_approx;
@@ -4256,9 +4107,9 @@ fieldset {
 	}
 }
 .step_no {
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	color: $white;
-	background: $color_pickled_bluewood_approx;
+	background: $color_primary;
 	color: $white;
 }
 .wizard_verticle {
@@ -4329,7 +4180,7 @@ fieldset {
 					background: $color_celeste_approx;
 				}
 				&.selected:before {
-					background: $color_pickled_bluewood_approx;
+					background: $color_primary;
 					color: $white;
 				}
 			}
@@ -4873,7 +4724,7 @@ form:after {
 				background: $color_celeste_approx;
 			}
 			&.selected:before {
-				background: $color_pickled_bluewood_approx;
+				background: $color_primary;
 				color: $white;
 			}
 		}
