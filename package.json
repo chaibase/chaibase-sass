@@ -1,6 +1,6 @@
 {
   "name": "chaibase-sass",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Stylesheet for Chaibase. Based on Compass, Bootstrap and Gentelella.",
   "main": "index.js",
   "scripts": {
