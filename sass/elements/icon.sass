@@ -22,3 +22,9 @@
     width: 3rem
     .fa
       font-size: 42px
+
+  @each $name, $pair in $colors
+    $color: nth($pair, 1)
+
+    &.is-icon-#{$name}
+      color: $color
